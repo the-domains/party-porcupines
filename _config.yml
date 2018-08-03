@@ -1,0 +1,24 @@
+name: party porcupines
+layout_spectrum: 0.3701501302421093
+typography_spectrum: 0.03598275547847152
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.8253002972342074
+  lightness: 0.9320701279211789
+  saturation: 0.41075651440769434
+  rhythmicContrast: 0.1031482070684433
+title: ''
+description: ''
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
